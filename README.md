@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="border-bottom:0;">Awesome Obisidian Plugins</h1>
+  <h1 style="border-bottom:0;">Awesome Obsidian Plugins</h1>
   <p>
     An awesome & curated list of core and community plugins on 
     <a href="https://obsidian.md">Obsidian</a>
