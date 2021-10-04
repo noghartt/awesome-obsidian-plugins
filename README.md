@@ -20,6 +20,7 @@ Take this into account.
 - [Obsidian Git](https://github.com/denolehov/obsidian-git) - Backup your Obisidian.md vault with Git.
 - [Obsidian to Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - An anki integration plugin. Designed for efficient bulk exporting.
 - [Obsidian Charts](https://github.com/phibr0/obsidian-charts) - Create editable, interactive and animated Charts.
+- [HackerNews](https://github.com/arpitbbhayani/obsidian-hackernews) -  Periodically fetches and displays top stories from HackerNews in Obsidian.
 
 ### Themes
 
